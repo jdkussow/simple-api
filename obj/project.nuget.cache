@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFJFZ2IRfw54PDfqpWt92THmHLNo6NE2RC+u/bbIZ6xSWLIpjaraHCb4G7bFVOQhLZVso5mqFn1B89gmO/pogA==",
+  "success": true,
+  "projectFilePath": "/Users/jd/projects/csharp/simple-api/simple-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/jd/.nuget/packages/identitymodel/4.4.0/identitymodel.4.4.0.nupkg.sha512",
+    "/Users/jd/.nuget/packages/identityserver4/4.1.2/identityserver4.4.1.2.nupkg.sha512",
+    "/Users/jd/.nuget/packages/identityserver4.storage/4.1.2/identityserver4.storage.4.1.2.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.5/microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/3.1.0/microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.identitymodel.logging/6.7.1/microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "/Users/jd/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "/Users/jd/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/jd/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "/Users/jd/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/jd/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
